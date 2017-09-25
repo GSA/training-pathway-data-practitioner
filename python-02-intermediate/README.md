@@ -23,7 +23,11 @@ Topics include:
   - Functions
   - Methods
   - Libraries
-
+  - Reading and writing files
+  - Data analysis with Pandas
+  - NumPy
+  - Read and write CSV
+  - Read JSON
 
 
 ## Are there any resources that go along with this?

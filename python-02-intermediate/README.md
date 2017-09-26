@@ -1,6 +1,14 @@
-# class-title
+# Level 2  Intermediate Python
 
 ## About this class
+Visualization best practices through advanced data analytics tools for building customer reports and dashboards. 
+Histogram, bar chart, scatterplot using packages
+Which one to use when.
+review/read documentation + resources
+
+__Package includes:__ 
+- For R track: ggplot2
+- For python track: matplotlib and seaborn
 
 Course instruction will be instructor-led and hands-on with delivery conducted both in-person, as well as virtual.
 
@@ -35,6 +43,8 @@ Yes! Here are the ["slides"](#).
 
 ## Setup
 Please make sure you have the following software installed before beginning this class.
+Anaconda 4.3 (Includes Python and Jupyter Notebook)
+Data Science packages (depends on the training and the coding language, but for example: Pandas, NumPy, sklearn)
 
 ## Assignments
 

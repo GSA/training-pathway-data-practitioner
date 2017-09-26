@@ -38,6 +38,8 @@ Notepad++ (available self-serice through the DSM software delivery agent)
 
 ## Labs
 
+### Lab 1: Simple API call
+
 ## Class Supplements
 
 ## Other Resources

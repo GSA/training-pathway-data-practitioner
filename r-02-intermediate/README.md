@@ -1,4 +1,4 @@
-# class-title
+# Intermediate R
 
 ## About this class:
 Visualization best practices through advanced data analytics tools for building customer reports and dashboards. 
@@ -8,7 +8,6 @@ review/read documentation + resources
 
 __Package includes:__ 
    
-    
     1. For R track: ggplot2
     
     2. For python track: matplotlib and seaborn
@@ -24,8 +23,8 @@ Course instruction will be instructor-led and hands-on with delivery conducted b
 Materials: Anaconda 4.3 (Includes R v 3.4.1, “Single Candle”)
 Latest version of R download from CRAN: [https://www.r-project.org/](https://www.r-project.org/)
 
-   Potential Topics: 
-   
+Topics include: 
+
     - Conditionals and control flow
     - Loops
     - Functions

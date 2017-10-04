@@ -2,9 +2,6 @@
 
 ## About this class
 Visualization best practices through advanced data analytics tools for building customer reports and dashboards. 
-Histogram, bar chart, scatterplot using packages
-Which one to use when.
-review/read documentation + resources
 
 Package includes:
 

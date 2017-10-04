@@ -7,12 +7,18 @@ This will be a hands-on session to learn tools and coding techniques for explori
 Course instruction will be instructor-led and hands-on with delivery conducted both in-person, as well as virtual.
 
 ## Pre-class Requirement
-It would be helpful if you would read the following ahead of time:
 
-[https://tech.gsa.gov/guides/API_standards/](https://tech.gsa.gov/guides/API_standards/)
+All students should have the following:
+1. A GitHub account - https://github.com/
+2. A GitHub account setup to GSA standards - https://github.com/GSA/GitHub-Administration
 
+## Pre-class Reading
 
-[APIs Presentation](APIs Presentation-RyanDay.pdf)
+Please read the following prior to attending class:
+
+1. API Overview Presentation - [APIs Presentation](APIs Presentation-RyanDay.pdf)
+2. GSA API Standards - [https://tech.gsa.gov/guides/API_standards/](https://tech.gsa.gov/guides/API_standards/)
+
 
 ## What will we do?
 
@@ -25,20 +31,35 @@ It would be helpful if you would read the following ahead of time:
 
 
 ## Are there any resources that go along with this?
-Yes! Here are the ["slides"](#).
+Slides will be posted one week prior to class.
 
 ## Setup
 You are not required to load any software before this class. However, the following optional software would be helpful for GSA employees:
 
 SOAPUI (available in ServiceNow)
 
-Notepad++ (available self-serice through the DSM software delivery agent)
+Notepad++ (available self-service through the DSM software delivery agent)
 
 ## Assignments
 
 ## Labs
 
-### Lab 1: Simple API call
+### Lab 1 - View a REST API in the browser
+
+### Lab 2 - View a REST API with parameters
+- first in the Swagger doco
+- next in the hurl.it
+
+### Lab3 - Tour of the GSA APIs
+- look at the GSA API directory
+- use the browser, swagger, or hurl.it to call the APIs
+
+
+### Lab -- brainstorming APIs that are needed (internal or external)
+- template for designing one?
+
+### Lab N: Simple API call - in JQuery
+
 
 ## Class Supplements
 

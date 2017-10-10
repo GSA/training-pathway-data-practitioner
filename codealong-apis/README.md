@@ -30,9 +30,6 @@ Please read the following prior to attending class:
 5. Where Do I Go From Here?
 
 
-## Are there any resources that go along with this?
-Slides will be posted one week prior to class.
-
 ## Setup
 You are not required to load any software before this class. However, the following optional software would be helpful for GSA employees:
 
@@ -42,36 +39,6 @@ Notepad++ (available self-service through the DSM software delivery agent)
 
 ## Assignments
 
-## Labs
-
-### Lab 1 - View a REST API in the browser
-
-### Lab 2 - View a REST API with parameters
-- first in the Swagger doco
-- next in the hurl.it
-
-### Lab 3 - Tour of the GSA APIs
-- look at the GSA API directory
-- use the browser, swagger, or hurl.it to call the APIs
-
-### Lab 4 - Viewing APIs with code
-Jquery example
-Pull list, then pull individual
-
-
-### Lab 5 - Viewing APIs with Google Scripts
-Google scripts
-Pull data from API, write to spreadsheet
-Maybe use 
-
-
-
-
-
-### Lab -- brainstorming APIs that are needed (internal or external)
-- template for designing one?
-
-### Lab N: Simple API call - in JQuery
 
 
 ## Class Supplements

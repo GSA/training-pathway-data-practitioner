@@ -7,11 +7,9 @@
   Getting and importing data (csv, sql, json)
   Exploratory data analysis	
 ~~~~
-I will be able to get data, understand the data, wrangle it, 
-Slicing & dicing
 
 
-Package includes:
+Topics include:
 
   1. Get Data
   

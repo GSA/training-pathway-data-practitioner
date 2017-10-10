@@ -6,7 +6,7 @@ Python is a general-purpose programming language that is extremely popular for d
 Course instruction will be instructor-led and hands-on with delivery conducted both in-person, as well as virtual. 
 
 ## Expected Duration
-1.5 hours
+2 hours
 
 ## Pre-class Requirement
 Students are required to have completed the OLU class “Python for Data Science” (course # sd_pyds_a01_it_enus) prior to registration and complete that course test with an 80% or better.

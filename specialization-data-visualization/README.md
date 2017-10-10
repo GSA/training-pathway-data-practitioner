@@ -6,8 +6,14 @@ Visualization best practices through advanced data analytics tools for building 
 Package includes:
 
   1. For R track: ggplot2
+  Get materials from Paul T & Matt.
+  
+  
   2. For python track: matplotlib and seaborn
+  Can get examples from the Google machine
+  Would need a volunteer for the Oct 20 event
 
 
 Course instruction will be instructor-led and hands-on with delivery conducted both in-person, as well as virtual.
 
+Pre-req: Programming in R

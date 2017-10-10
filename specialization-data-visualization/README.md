@@ -10,10 +10,10 @@ Package includes:
   
   
   2. For python track: matplotlib and seaborn
-  Can get examples from the Google machine
-  Would need a volunteer for the Oct 20 event
+  Lots of good stuff [here.](https://github.com/ukgovdatascience/Python-for-Analysts)
+  Would need a volunteer to be able to teach this for the Oct 20 event
 
 
 Course instruction will be instructor-led and hands-on with delivery conducted both in-person, as well as virtual.
 
-Pre-req: Programming in R
+Pre-req: Programming in R or Python

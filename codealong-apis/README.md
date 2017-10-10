@@ -4,7 +4,7 @@ This will be a hands-on session to learn tools and coding techniques for explori
 
 ## About this class
 
-Course instruction will be instructor-led and hands-on with delivery conducted both in-person, as well as virtual.
+Course instruction will be instructor-led and hands-on with delivery conducted in-person.
 
 ## Pre-class Requirement
 
@@ -22,7 +22,7 @@ Please read the following prior to attending class:
 
 ## What will we do?
 
-### Course Outline
+## Course Outline
 1. Understanding APIs
 2. A tour of GSA's APIs
 3. Consuming an API with tools

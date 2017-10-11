@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>WCF Client</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+</head>
+
+<body>
+
+<table id="location" border='1'>
+    <tr>
+        <th>LINK TO API CALL</th>
+		<th>LINK TO SEPARATE PAGE</TH>
+		 <th>AWARD_YEAR</th>
+		 
+    </tr>
+</table>
+
+<script>
+
+var service = 'http://localhost/DistributedDataSystem/Service.svc/';
+
+$(document).ready(function(){
+
+    //jQuery.support.cors = true;
+
+    $.ajax(
+    {
+        type: "GET",
+		//url: 'https://citypairsprototypeapi.app.cloud.gov/travel/citypairs/v0/airfares?award_year=2017&origin_airport_abbrev=ATL&api_key=DEMO_KEY',
+        //url: 'https://api.gsa.gov/travel/citypairs/v0/airfares?award_year=2017&origin_airport_abbrev=ATL&api_key=DEMO_KEY',
+		url: 'https://testapi2.app.cloud.gov/travel/citypairs/v0/airfares?award_year=2017&origin_airport_abbrev=ATL&api_key=DEMO_KEY',
+        data: "{}",
+        //contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        cache: false,
+        success: function (data) {
+            
+var trHTML = '';
+
+$.each(data.result, function (i, item) {
+    trHTML += '<tr><td><a href="https://api.gsa.gov/travel/citypairs/v0/airfares/' + item.ITEM_NUM + '?api_key=DEMO_KEY">' + item.ITEM_NUM + '</a></td><td><a href="index4a.html?ID=' + item.ID + '">' + item.ITEM_NUM + '</td><td>' + item.AWARD_YEAR + '</td></tr>';
+});
+
+$('#location').append(trHTML);
+        
+        },
+        
+        error: function (msg) {
+            
+            alert(msg.responseText);
+        }
+    });
+})
+
+</script>

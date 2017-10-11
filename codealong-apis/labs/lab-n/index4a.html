@@ -13,6 +13,8 @@
 <table id="location" border='1'>
     <tr>
         <th>ID</th>
+
+	<th>ITEM_NUM</th>
 		<th>ORIGIN_CITY_NAME</TH>
 		 <th>DESTINATION_CITY_NAME</th>
 		 
@@ -61,7 +63,7 @@ $(document).ready(function(){
 var trHTML = '';
 
 $.each(data.result, function (i, item) {
-    trHTML += '<tr><td>' + item.ITEM_NUM + '</td><td>' + item.ORIGIN_CITY_NAME + '</td><td>' + item.DESTINATION_CITY_NAME + '</td></tr>';
+    trHTML += '<tr><td>' + item.ID + '</td><td>' + item.ITEM_NUM + '</td><td>' + item.ORIGIN_CITY_NAME + '</td><td>' + item.DESTINATION_CITY_NAME + '</td></tr>';
 });
 
 $('#location').append(trHTML);

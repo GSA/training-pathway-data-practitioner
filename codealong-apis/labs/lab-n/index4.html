@@ -32,7 +32,7 @@ $(document).ready(function(){
         type: "GET",
 		//url: 'https://citypairsprototypeapi.app.cloud.gov/travel/citypairs/v0/airfares?award_year=2017&origin_airport_abbrev=ATL&api_key=DEMO_KEY',
         //url: 'https://api.gsa.gov/travel/citypairs/v0/airfares?award_year=2017&origin_airport_abbrev=ATL&api_key=DEMO_KEY',
-		url: 'https://testapi2.app.cloud.gov/travel/citypairs/v0/airfares?award_year=2017&origin_airport_abbrev=ATL&api_key=DEMO_KEY',
+		url: 'https://testapi2.app.cloud.gov/travel/citypairs/v0/airfares?award_year=2017&origin_airport_abbrev=ABQ&api_key=DEMO_KEY',
         data: "{}",
         //contentType: "application/json; charset=utf-8",
         dataType: "json",
@@ -42,7 +42,7 @@ $(document).ready(function(){
 var trHTML = '';
 
 $.each(data.result, function (i, item) {
-    trHTML += '<tr><td><a href="https://api.gsa.gov/travel/citypairs/v0/airfares/' + item.ITEM_NUM + '?api_key=DEMO_KEY">' + item.ITEM_NUM + '</a></td><td><a href="index4a.html?ID=' + item.ID + '">' + item.ITEM_NUM + '</td><td>' + item.AWARD_YEAR + '</td></tr>';
+    trHTML += '<tr><td><a href="https://testapi2.app.cloud.gov/travel/citypairs/v0/airfares/' + item.ID + '?api_key=DEMO_KEY">' + item.ID + '</a></td><td><a href="index4a.html?ID=' + item.ID + '">' + item.ID + '</td><td>' + item.AWARD_YEAR + '</td></tr>';
 });
 
 $('#location').append(trHTML);

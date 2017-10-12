@@ -24,10 +24,9 @@ Please read the following prior to attending class:
 
 ## Course Outline
 1. Understanding APIs
-2. A tour of GSA's APIs
+2. Tour of GSA's APIs
 3. Consuming an API with tools
 4. Consuming an API with program code
-5. Where Do I Go From Here?
 
 
 ## Setup
@@ -36,11 +35,5 @@ You are not required to load any software before this class. However, the follow
 SOAPUI (available in ServiceNow)
 
 Notepad++ (available self-service through the DSM software delivery agent)
-
-## Assignments
-
-
-
-## Class Supplements
 
 ## Other Resources

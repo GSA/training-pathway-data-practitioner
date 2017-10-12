@@ -2,23 +2,22 @@
 
 ## Lab Goal
 
-The goal of this lab is to make a call to a REST API with parameters using hurl.it.
+The goal of this lab is to retrieve data from the Prototype City Pairs API.
 
 
 ## Skills and Info learned
 
-- https://www.hurl.it
+- GSA API Standards
 - REST APIs
 - HTTP GET
+- https://www.hurl.it
 
-xxxx
 
 ## Lab Steps
 
-1. Go to the web site hurl.it
-2. Enter the URL for an API with no parameters
+1. xxxx
+2. xxxx
 
 
 
 ## Teacher notes
-Online quiz for pre-test: purpose of HTTP verbs

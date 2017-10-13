@@ -42,6 +42,8 @@ The goal of this lab is for students to solve problems using GSA's APIs.
 
 1. From the API directory, select the API that has information about Sustainable Facilities.
 
-2. 
+2. Find the endpoint that provides contract language related to procurement clauses.
+
+3. Using this endpoint, how many clauses are available that are related to "Electrical Contractors and Other Wiring Installation Contractors"? (Hint: you may need to do some Internet sluething to find the NAICS code that matches that.)
 
 	

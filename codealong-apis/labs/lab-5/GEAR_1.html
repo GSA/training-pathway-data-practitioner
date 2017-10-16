@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>WCF Client</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+</head>
+
+<body>
+
+<table id="location" border='1'>
+    <tr>
+		<th>LINK TO SEPARATE PAGE</TH>
+		 <th>NAME</th>
+		 
+    </tr>
+</table>
+
+<script>
+
+var service = 'http://localhost/DistributedDataSystem/Service.svc/';
+
+$(document).ready(function(){
+
+    //jQuery.support.cors = true;
+
+    $.ajax(
+    {
+        type: "GET",
+		//url: 'https://citypairsprototypeapi.app.cloud.gov/travel/citypairs/v0/airfares?award_year=2017&origin_airport_abbrev=ATL&api_key=DEMO_KEY',
+        //url: 'https://api.gsa.gov/travel/citypairs/v0/airfares?award_year=2017&origin_airport_abbrev=ATL&api_key=DEMO_KEY',
+		url: 'https://dev.ea.gsa.gov/api/v0/itstandards',
+        data: "{}",
+        //contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        cache: false,
+        success: function (data) {
+            
+var trHTML = '';
+
+$.each(data, function (i, item) {
+    trHTML += '<tr><td><a href="GEAR_2.html?ID=' + item.ID + '">' + item.ID + '</td><td>' + item.Name + '</td></tr>';
+});
+
+$('#location').append(trHTML);
+        
+        },
+        
+        error: function (msg) {
+            
+            alert(msg.responseText);
+        }
+    });
+})
+
+</script>

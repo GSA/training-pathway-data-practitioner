@@ -26,10 +26,12 @@ B4 - `2017`
 
 B8 - `Airfares`
 
-Row 9 -- copy and paste these values:
+Row 9 -- Copy the values below, then right click on row 9 in your spreadsheet and select "Paste Special..Paste Values Only" :
 
 | ID | ITEM_NUM | AWARD_YEAR | ORIGIN_AIRPORT_ABBREV | ORIGIN_CITY_NAME | DESTINATION_AIRPORT_ABBREV | DESTINATION_CITY_NAME | YCA_FARE | XCA_FARE |
 | -- | -------- | ---------- | --------------------- | ---------------- | -------------------------- | --------------------- | -------- | -------- |   
 
-2. 
+4. Rename this spreadsheet to `Worksheet`
+
+
 

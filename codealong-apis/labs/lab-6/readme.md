@@ -28,7 +28,8 @@ B8 - `Airfares`
 
 Row 9 -- copy and paste these values:
 
-| ID | ITEM_NUM| AWARD_YEAR | ORIGIN_AIRPORT_ABBREV | ORIGIN_CITY_NAME | DESTINATION_AIRPORT_ABBREV | DESTINATION_CITY_NAME | YCA_FARE | XCA_FARE
+| ID | ITEM_NUM | AWARD_YEAR | ORIGIN_AIRPORT_ABBREV | ORIGIN_CITY_NAME | DESTINATION_AIRPORT_ABBREV | DESTINATION_CITY_NAME | YCA_FARE | XCA_FARE |
+| -- | -------- | ---------- | --------------------- | ---------------- | -------------------------- | --------------------- | -------- | -------- |   
 
 2. 
 

@@ -4,6 +4,10 @@
 
 The goal of this lab is to use Google Scripts to consume REST APIs.
 
+At GSA, Google Scripts are governed by the policies as listed on this page:
+
+https://insite.gsa.gov/portal/content/540025
+
 ## Skills and Info learned
 
 Populate a Google Spreadsheet with data from a REST API.

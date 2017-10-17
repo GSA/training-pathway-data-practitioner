@@ -156,10 +156,10 @@ var ID = GetURLParameter('ID');
 ```
 
 16. Replace the following line: 		
-url: 'https://dev.ea.gsa.gov/api/v0/itstandards/6041',
+`url: 'https://dev.ea.gsa.gov/api/v0/itstandards/6041',`
 
 With this line: 		
-url: 'https://dev.ea.gsa.gov/api/v0/itstandards/' +  ID,
+`url: 'https://dev.ea.gsa.gov/api/v0/itstandards/' +  ID,`
 
 ### Passing ID from list page to subpage in URL (GEAR_1.html)
 

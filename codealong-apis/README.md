@@ -30,7 +30,7 @@ Please read the following prior to attending class:
 
 ## Slides
 Slides for the class can be found here:
-[APIs Code-Along Slides - Ryan Day.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/codealong-apis/APIs%20Presentation-RyanDay.pdf))
+[APIs Code-Along Slides - Ryan Day.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/codealong-apis/APIs%20Code-Along%20Slides%20-%20Ryan%20Day.pdf)
 
 
 

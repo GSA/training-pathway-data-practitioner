@@ -1,0 +1,79 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Prototype City Pairs API",
+		"_postman_id": "7b9f094a-fe0d-d699-1b1f-ac3a59561073",
+		"description": "Prototype project to demonstrate GSA API Standards and API Documentation Template.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "airfares",
+			"description": "Folder for airfares",
+			"item": [
+				{
+					"name": "Negotiated airfares",
+					"request": {
+						"url": "https://api.gsa.gov/travel/citypairs/v0/airfares?award_year={{award_year}}&origin_airport_abbrev={{origin_airport_abbrev}}&destination_airport_abbrev={{destination_airport_abbrev}}&api_key=DEMO_KEY",
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							}
+						],
+						"body": {},
+						"description": "This endpoint returns negotiated airfaires.\n"
+					},
+					"response": []
+				},
+				{
+					"name": "Individual airfare by ID",
+					"request": {
+						"url": {
+							"raw": "https://api.gsa.gov/travel/citypairs/v0/airfares/:id?api_key=DEMO_KEY",
+							"protocol": "https",
+							"auth": {},
+							"host": [
+								"api",
+								"gsa",
+								"gov"
+							],
+							"path": [
+								"travel",
+								"citypairs",
+								"v0",
+								"airfares",
+								":id"
+							],
+							"query": [
+								{
+									"key": "api_key",
+									"value": "DEMO_KEY"
+								}
+							],
+							"variable": [
+								{
+									"value": "{{id}}",
+									"id": "id"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": ""
+							}
+						],
+						"body": {},
+						"description": "This endpoint returns one airfare by ID. (This is just for demonstration purpose. For City Pairs, the ID does not have meaning.)\n"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

@@ -30,7 +30,7 @@ https://ea.gsa.gov/api/v0/itstandards
 
 8. Copy the following directly above the `</BODY></HTML>` tags at the the bottom of the file after closing:
 
-`
+```
 <!-- This script populates the data in the table -->
 <script>
 
@@ -69,7 +69,7 @@ $('#location').append(trHTML);
 })
 
 </script>
-`
+```
 
 9. Reload the web page in the browser. You should see data displayed in the table below the headers. This from the GEAR API. (Note: should match GEAR_1b.html after this step.)
 
@@ -84,7 +84,7 @@ $('#location').append(trHTML);
 
 13. Copy the following directly above the `</BODY></HTML>` tags at the the bottom of the file after closing:
 
-`
+```
 <!-- This script populates the data for the detailed record -->
 <script>
 
@@ -128,7 +128,8 @@ $('#location').append(trHTML);
     });
 })
 
-</script>`
+</script>
+```
 
 14. View the page in the web browser. It should be displaying data for one IT Standards record. (Note: should match GEAR_2a.html after this step.)
 
@@ -136,7 +137,8 @@ $('#location').append(trHTML);
 
 15. Add the following after the beginning <SCRIPT> tag:
 
-`function GetURLParameter(sParam)
+```
+function GetURLParameter(sParam)
 {
     var sPageURL = window.location.search.substring(1);
     var sURLVariables = sPageURL.split('&');
@@ -151,7 +153,7 @@ $('#location').append(trHTML);
 }
 
 var ID = GetURLParameter('ID');
-`
+```
 
 16. Replace the following line: 		
 url: 'https://dev.ea.gsa.gov/api/v0/itstandards/6041',
@@ -176,22 +178,26 @@ Save the file.
 
 20. Add the following near the top of the <BODY> directly after the `<section id="contents">`:
 
-`	    <section id="breadcrumbs">
-	<ol class="breadcrumb">
-  <li class="breadcrumb-item active"><a href="GEAR_1.html">Home</a></li>
-</ol>
-	</section>`
+```
+	<section id="breadcrumbs">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item active"><a href="GEAR_1.html">Home</a></li>
+		</ol>
+	</section>
+```
 
 ### Adding Breadcrumbs (GEAR_2.html)
 
 21. Add the following near the top of the <BODY> directly after the `<section id="contents">`:
 
-`	    <section id="breadcrumbs">
+```
+	    <section id="breadcrumbs">
 			<ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="GEAR_1.html">Home</a></li>
 				<li class="breadcrumb-item active">Details</li>
 			</ol>
-	</section>`
+	</section>
+```
 
 22. Refesh both pages. You should see breadcrumb navigation on both pages.
 

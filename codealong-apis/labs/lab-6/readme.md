@@ -80,7 +80,8 @@ function getCityPairsFromURL (URL) {
       sheet.appendRow(dataArray)
     
   }
-  }```
+  }
+```
   
  Click save. 
 
@@ -88,7 +89,7 @@ function getCityPairsFromURL (URL) {
 
 8. Paste the following text at the bottom of the script, outside any other braces.
 
-`  
+```  
 /* Quick sample to call API */
   function quickAPICall() {
     
@@ -97,7 +98,7 @@ function getCityPairsFromURL (URL) {
     getCityPairsFromURL(url); 
   
   }
- `
+```
  
 Click save.
  
@@ -132,7 +133,7 @@ B5 - `ABY - ALBANY`
 
 17. Switch back to the script editor. Copy and paste the following at the bottom of the script.
   
-`
+```
   //calls by year, origination city
   function getCityPairsByOriginationCity() {
     
@@ -155,7 +156,7 @@ B5 - `ABY - ALBANY`
    getCityPairsFromURL(myURL); 
     
   }
-`
+```
 Click Save.
 
 18. In the script editor, select `getCityPairsByOriginationCity` from the drop-down box.
@@ -173,7 +174,7 @@ B6 - `DCA - WASHINGTON`
 21. Switch back to the script editor. Copy and paste the following at the bottom of the script.
 
 
-`
+```
 //calls by year, destination city
   function getCityPairsByDestinationCity() {
     
@@ -196,7 +197,7 @@ B6 - `DCA - WASHINGTON`
    getCityPairsFromURL(myURL); 
     
   }
-`
+```
 Click Save.
 
 22. In the script editor, select `getCityPairsByDestinationCity` from the drop-down box.
@@ -207,7 +208,7 @@ Click Save.
 
 24. Switch back to the script editor. Copy and paste the following at the bottom of the script.
 
-`
+```
 //calls by year, origination city, destination city
 function getCityPairsByBoth() {
     
@@ -238,7 +239,7 @@ function getCityPairsByBoth() {
    getCityPairsFromURL(myURL); 
     
   }
-  `
+```
   
 Click Save.
 
@@ -251,7 +252,7 @@ Click Save.
 
 27. Switch back to the script editor. Copy and paste the following at the bottom of the script.
 
-`
+```
 //this method adds the menu to the spreadsheet
 function onOpen() {
   var ss = SpreadsheetApp.getUi();
@@ -261,7 +262,7 @@ function onOpen() {
   .addItem('Get City Pairs By Both', 'getCityPairsByBoth')
       .addToUi();
 }
-`
+```
 
 Click Save.
 

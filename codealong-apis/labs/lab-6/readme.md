@@ -42,7 +42,7 @@ Row 9 -- Copy the values below, then right click on row 9 in your spreadsheet an
 
 7. Replace the body of the script with the following:
 
-`/* Function that calls the API */
+```/* Function that calls the API */
 function getCityPairsFromURL (URL) {
     
   Logger.log(URL); //log data to logger to check
@@ -80,7 +80,7 @@ function getCityPairsFromURL (URL) {
       sheet.appendRow(dataArray)
     
   }
-  }`
+  }```
   
  Click save. 
 

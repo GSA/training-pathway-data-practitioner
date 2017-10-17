@@ -16,7 +16,7 @@ All students should have the following:
 
 Please read the following prior to attending class:
 
-1. API Overview Presentation - [APIs Presentation](APIs Presentation-RyanDay.pdf)
+1. API Overview Presentation - [APIs Presentation](https://github.com/GSA/training-pathway-data-practitioner/blob/master/codealong-apis/APIs%20Presentation-RyanDay.pdf)
 2. GSA API Standards - [https://tech.gsa.gov/guides/API_standards/](https://tech.gsa.gov/guides/API_standards/)
 
 

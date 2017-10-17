@@ -1,39 +1,25 @@
 ## Labs
 
-### Lab 1 - View a REST API in the browser
+### [Lab 1 - View a REST API in the browser](labs/lab-1/readme.md)
+Make a call to a REST API with no parameters using a browser.
 
-### Lab 2 - Prototype City Pairs API
-- first in the Swagger doco
-- next in the hurl.it
+### [Lab 2 - Exploring the Prototype City Pairs API](labs/lab-2/readme.md)
+Retrieve data from the Prototype City Pairs API.
 
-### Lab 3 - Tour of the GSA APIs
-- look at the GSA API directory
-- use the browser, swagger, or hurl.it to call the APIs
+### [Lab 3 - Tour of the GSA APIs](labs/lab-3/readme.md)
+Tour GSA's APIs.
 
+### [Lab 4 - Solving Business Problems with APIs](labs/lab-4/readme.md)
+Solve problems using GSA's APIs.
 
-### Lab 4 - Solving Business Problems with APIs
-- Give a problem for the class to solve
-- pick 3 or 4 APIs
-- give a task to accomplish
-- see how many they can get done
-- Online quiz with answers
-- Including the error codes
+## After Break
 
-MORE DETAILED
+### [Lab 5 - Use HTML and JavaScript to consume REST APIs.](labs/lab-5/readme.md)
+Using JQuery to pull API data.
 
-### Lab 5 - Using JQuery to pulll API data
-Jquery example
-Pull list, then pull individual
-City Pairs API or GEAR API
+### [Lab 6 - Using Google Scripts to pull API data.](labs/lab-6/readme.md)
+Use Google Scripts to consume REST APIs.
 
-### Lab 6 - Using Google Scripts to pull API data
-Google scripts
-Pull data from API, write to spreadsheet
-City Pairs API
-Handle Error code?
-
-### Lab 7 - Brainstorming for new APIs
-- What business problems could be solved by APIs.
-- Internal?
-- External?
-- Fill out a template for one potential one
+### [Lab 7 - Brainstorming for new APIs](labs/lab-7/readme.md)
+Identify additional datasets that could be useful as an API
+Create a User Story for an API.

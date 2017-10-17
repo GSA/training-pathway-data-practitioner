@@ -1,8 +1,8 @@
 # Lab 7 Readme
 
 ## Lab Goal
-
 Identify additional datasets that could be useful as an API
+Create a User Story for an API.
 
 
 ## Lab Steps
@@ -24,6 +24,14 @@ Example: Concur might use the city pairs rates from the API to set airline price
 
 4. For the items listed in step 2, identify 1 agency or customer OUTSIDE GSA that might use this data. If you think they already use it, go ahead and list them anyway.
 
-Example: Dept. of Treasury might use the City Pairs rates to estimate travel costs for a conference.
+Example: Dept. of Treasury might use the City Pairs rates to estimate travel costs for employees.
 
-5. Share with the group.
+5. Share ideas with the group.
+
+6. As a group, select one potential API to write in user story format:
+
+`As a < organization insider or outside >, I want < some type of information from the API > so that < some reason to use the information >.`
+
+For example:
+
+` As a < Dept. of Treasury travel planner >, I want <City Pairs airfares> so that <I can estimate travel costs for employees>`

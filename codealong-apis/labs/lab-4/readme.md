@@ -2,7 +2,7 @@
 
 ## Lab Goal
 
-The goal of this lab is for students to solve problems using GSA's APIs.
+The goal of this lab is for students to solve problems using GSA's APIs. (Group activity.)
 
 ## Skills and Info learned
 
@@ -27,7 +27,6 @@ The goal of this lab is for students to solve problems using GSA's APIs.
 - What are the number of accounts on the top 3 social media platforms?
 - What is the source of this data?
 
-
 ### Research Government Jobs
 
 1. From the API directory, select the API that has information about government jobs.
@@ -36,7 +35,7 @@ The goal of this lab is for students to solve problems using GSA's APIs.
 
 3. What is the URL for one specific IT job?
 
-4. What other APIs are available for this information?
+4. What other APIs are available for this information, according to the documentation?
 
 ### Find out about Sustainable Facilities
 
@@ -46,4 +45,3 @@ The goal of this lab is for students to solve problems using GSA's APIs.
 
 3. Using this endpoint, how many clauses are available that are related to "Electrical Contractors and Other Wiring Installation Contractors"? (Hint: you may need to do some Internet sluething to find the NAICS code that matches that.)
 
-	

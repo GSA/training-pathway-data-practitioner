@@ -28,6 +28,12 @@ Please read the following prior to attending class:
 3. Consuming an API with tools
 4. Consuming an API with program code
 
+## Slides
+Slides for the class can be found here:
+[APIs Code-Along Slides - Ryan Day.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/codealong-apis/APIs%20Presentation-RyanDay.pdf))
+
+
+
 
 ## Setup
 You are not required to load any software before this class. However, the following optional software would be helpful for GSA employees:
@@ -37,3 +43,5 @@ SOAPUI (available in ServiceNow)
 Notepad++ (available self-service through the DSM software delivery agent)
 
 ## Other Resources
+
+[HTTP Methods Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSdQkaY3lBGIjN2oNjjrgxKwur2E7zK2gonp8Uw8p4RoH4fZSQ/viewform?c=0&w=1&usp=mail_form_link)

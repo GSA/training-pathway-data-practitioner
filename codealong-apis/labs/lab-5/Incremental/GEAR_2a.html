@@ -13,7 +13,8 @@
 </head>
 
 <body>
-    		<div class="container">
+	
+			<div class="container">
 
 
       <h1>Lab 5 - API Examples - Detail Page</h1>
@@ -36,6 +37,51 @@
 	  </table>
 </div>
 </section>
+
+<!-- This script populates the data for the detailed record -->
+<script>
+
+$(document).ready(function(){
+
+    $.ajax(
+    {
+        type: "GET",
+		url: 'https://dev.ea.gsa.gov/api/v0/itstandards/6041',
+        data: "{}",
+        dataType: "json",
+        cache: false,
+        success: function (data) {
+            
+var trHTML = '';
+
+$.each(data, function (i, item) {
+    trHTML += '<tr><td>' 
+	+ item.ID + '</td><td>' 
+	+ item.Name + '</td><td>' 
+	+ item.Type + '</td><td>' 
+	+ item.Category + '</td><td>' 	
+	+ item.Status + '</td><td>' 	
+	+ item.DeploymentType + '</td><td>' 	
+	+ item.Comments + '</td><td>' 	
+	+ item.ReferenceDocuments + '</td><td>' 	
+	+ item.ApprovalExpirationDate + '</td><td>' 
+	+ item.Description + '</td></tr>';
+});
+
+$('#location').append(trHTML);
+        
+        },
+        
+        error: function (msg) {
+            
+            alert(msg.responseText);
+        }
+    });
+})
+
+
+</script>
+
+
 </body>
 </html>
-

@@ -38,5 +38,45 @@
 </section>
 
 
+
+<!-- This script populates the data in the table -->
+<script>
+
+$(document).ready(function(){
+
+    //jQuery.support.cors = true;
+
+    $.ajax(
+    {
+        type: "GET",
+		url: 'https://dev.ea.gsa.gov/api/v0/itstandards/',
+        data: "{}",
+        dataType: "json",
+        cache: false,
+        success: function (data) {
+            
+var trHTML = '';
+
+$.each(data, function (i, item) {
+	trHTML += '<tr><td><a href="GEAR_2.html?ID=' + item.ID + '">' 
+	+ item.ID + '</td><td>' 
+	+ item.Name + '</td><td>' 
+	+ item.Type + '</td><td>' 
+	+ item.Category + '</td></tr>';
+});
+
+$('#location').append(trHTML);
+        
+        },
+        
+        error: function (msg) {
+            
+            alert(msg.responseText);
+        }
+    });
+})
+
+</script>
+
 </body>
 </html>

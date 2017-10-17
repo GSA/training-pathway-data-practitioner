@@ -13,6 +13,12 @@
 </head>
 
 <body>
+    <section id="contents">
+	    <section id="breadcrumbs">
+	<ol class="breadcrumb">
+  <li class="breadcrumb-item active"><a href="GEAR_1.html">Home</a></li>
+</ol>
+	</section>
 	
 			<div class="container">
 
@@ -23,6 +29,7 @@
       <h3>GSA API Standards</h3>
       <p>The GEAR team has built RESTful API services, accessible from within the GSA firewall, that provides authoritative data from the GEAR databases. These services power the GEAR web application, but can also be used by other processes or applications. All service are GET endpoints, and all responses are in JSON format.</p>
 	  <P>The data below is populated from the GEAR APIs.</p>
+	<p>Click on the link in the "ID" column to view details for a single IT Standard.</P>
 
 			<table id="location" class="table table-bordered table-striped">
 
@@ -37,6 +44,42 @@
 </div>
 </section>
 
+
+<script>
+
+$(document).ready(function(){
+
+    $.ajax(
+    {
+        type: "GET",
+		url: 'https://dev.ea.gsa.gov/api/v0/itstandards',
+        data: "{}",
+        dataType: "json",
+        cache: false,
+        success: function (data) {
+            
+var trHTML = '';
+
+$.each(data, function (i, item) {
+    trHTML += '<tr><td><a href="GEAR_2.html?ID=' + item.ID + '">' 
+	+ item.ID + '</td><td>' 
+	+ item.Name + '</td><td>' 
+	+ item.Type + '</td><td>' 
+	+ item.Category + '</td></tr>';
+});
+
+$('#location').append(trHTML);
+        
+        },
+        
+        error: function (msg) {
+            
+            alert(msg.responseText);
+        }
+    });
+})
+
+</script>
 
 </body>
 </html>

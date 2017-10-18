@@ -67,7 +67,12 @@ Slides are forthcoming
 
 ## Labs
 
-Under development...
+### Version control
+
+* Issues
+* Commits
+* Forking
+* Pull requests
 
 ## Class Supplements
 

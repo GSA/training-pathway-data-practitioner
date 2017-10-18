@@ -6,7 +6,10 @@ The class discusses two related topics of open source softare and version contro
 
 ## Pre-class requirements
 
-There are no prerequisites for this class. It will be helpful to have an [existing GitHub account configured to GSA standards](#setup), and a general understanding of federal and [GSA open source software](https://github.com/GSA/open-source-policy).
+You will need:
+
+* [a GitHub account configured to GSA standards](#setup) - we will walk through GitHub account creation at the beginning of class but, to save time, please create an account beforehand
+* a general understanding of federal and [GSA open source software](https://github.com/GSA/open-source-policy)
 
 ## What we will do
 

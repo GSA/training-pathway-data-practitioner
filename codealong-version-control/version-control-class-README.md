@@ -73,3 +73,8 @@ Discover more about these topics on your own time after the class:
 * Git branches
 * Git command line
 * GitHub Desktop
+
+## Other Resources
+
+* [Git Tutorials](https://www.atlassian.com/git/tutorials) - Learn the basics of Git and Bitbucket (a GitHub alternative)
+* [Learn Git Branching](https://learngitbranching.js.org/) - A more advanced tutorial once you are ready to use the Git command line 

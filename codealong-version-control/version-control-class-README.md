@@ -6,16 +6,70 @@ The class discusses two related topics of open source softare and version contro
 
 ## Pre-class requirements
 
-All students should have the following:
-1. A GitHub account - https://github.com/
-2. A GitHub account setup to GSA standards - https://github.com/GSA/GitHub-Administration
-3. A general understanding of federal and GSA open source software - https://github.com/GSA/open-source-policy
+There are no prerequisites for this class. It will be helpful to have an [existing GitHub account configured to GSA standards](#Setup), and a general understanding of federal and [GSA open source software](https://github.com/GSA/open-source-policy).
 
 ## What we will do
 
 We will cover the following:
+
 1. Federal and GSA open source software policy - what it is and how it is implemented
 2. Conduct a "hands-on" exercise with an open source project - edit code, submit code via a pull request, review code, comment on code, and create project issues
 
+### Course outline
+
+#### Open source software
+
+#### Version control
+
+* Introduction to version control
+* Introduction to Git and GitHub
+  * What Git is
+  * What GitHub is
+  * How GitHub is organized
+  * A quick tour of a GitHub repository
+    * Code
+    * Issues
+    * Pull requests
+    * Projects
+    * Wiki
+* How you can use GitHub for open source collaboration
+  * Participating in projects
+  * Publishing your projects
+* Introduction to issues
+  * How to open an issue
+  * How to write a good issue
+  * How to refer to other issues
+  * How to find an issue to work on
+* Introduction to commits
+  * What a commit is
+  * Best practices for commits
+    * How much to commit at once
+    * Writing good commit messages
+* Introduction to forking
+  * What a fork is
+  * How to fork
+  * Committing to a fork
+* Introduction to pull requests
+  * How to submit a pull request
+  * How to refer to issues
+
 ## Resources that go along with this
+
 Slides are forthcoming
+
+## Setup
+
+1. Create a [GitHub](https://github.com/) account
+2. Set up your GitHub account [according to GSA standards](https://github.com/GSA/GitHub-Administration)
+
+## Labs
+
+Under development...
+
+## Class Supplements
+
+Discover more about these topics on your own time after the class:
+
+* Git branches
+* Git command line
+* GitHub Desktop

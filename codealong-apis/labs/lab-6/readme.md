@@ -118,6 +118,9 @@ Click save.
 
 15. When the message disappears, switch the Chrome tab to view the spreadsheet. There should be data populated in row 10 and below.
 
+![Spreadsheet with data in row 10](lab_6_step_15.JPG)
+
+
 
 ### Adding Year and Origination City Parameters
 

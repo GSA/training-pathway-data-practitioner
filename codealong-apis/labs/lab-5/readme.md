@@ -71,7 +71,7 @@ $('#location').append(trHTML);
 </script>
 ```
 
-9. Reload the web page in the browser. You should see data displayed in the table below the headers. This data is from the GEAR API. (Note: should match [incremental/GEAR_1b.html](incremental/GEAR_1b.html) after this step.)
+9. Reload the web page in the browser. You should see data displayed in the table below the headers. This data is from the GEAR API. (Note: should match [Incremental/GEAR_1b.html](Incremental/GEAR_1b.html) after this step.)
 
 ### GEAR DETAIL PAGE
 

@@ -32,11 +32,11 @@ Row 9 -- Copy the values below, then right click on row 9 in your spreadsheet an
 | ID | ITEM_NUM | AWARD_YEAR | ORIGIN_AIRPORT_ABBREV | ORIGIN_CITY_NAME | DESTINATION_AIRPORT_ABBREV | DESTINATION_CITY_NAME | YCA_FARE | XCA_FARE |
 | -- | -------- | ---------- | --------------------- | ---------------- | -------------------------- | --------------------- | -------- | -------- |   
 
-4. Double-click teh bottom tab labeled `Sheet1` and rename this spreadsheet to `Worksheet`.
+4. Double-click the bottom tab labeled `Sheet1` and rename this spreadsheet to `Worksheet`.
 
 5. Select "Tools...Script Editor" to open a Google script.
 
-6. Click the title `Untitled project` and rename to `GSA_IG_CODEALONG_TEMP`
+6. Click the title `Untitled project`. When the "Edit Project Name" dialog is displayed, enter `GSA_IG_CODEALONG_TEMP` and then click "OK".
 
 ### First function
 
@@ -108,7 +108,7 @@ Click save.
  
 10. Click the "run" (triangle) button.
  
-11. The first time you run this, you will receive a dialog that says :Authorization required". Click "Review Permissions".
+11. The first time you run this, you will receive a dialog that says "Authorization required". Click "Review Permissions".
 
 12. You may be asked "Choose an Account From GSA.GOV". Select your GSA email.
 

@@ -171,7 +171,7 @@ Save the file.
 
 18. In the browser, refresh "Gear_1.html". You should see clickable links on each ID value. 
 
-19. Click one of the links, the Gear_2.html page should display values for the link that you clicked on the previous page.  (Note: at this point, the files will look like GEAR_1c.html and GEAR_2b.html.)
+19. Click one of the links, the Gear_2.html page should display values for the link that you clicked on the previous page.  (Note: at this point, the files will look like [Incremental/GEAR_1c.html](Incremental/GEAR_1c.html)and [Incremental/GEAR_2b.html](Incremental/GEAR_2b.html).)
 
 
 ### Adding Breadcrumbs (GEAR_1.html)
@@ -201,7 +201,7 @@ Save the file.
 
 22. Refesh both pages. You should see breadcrumb navigation on both pages.
 
-(Note: at this point, the files will look like GEAR_1_Final.html and GEAR_2_Final.html.)	
+(Note: at this point, the files will look like [Incremental/GEAR_1_Final.html](Incremental/GEAR_1_Final.html) and [Incremental/GEAR_2_Final.html](Incremental/GEAR_2_Final.html).)	
 	
 ### Extra Credit (After class)
 

@@ -32,7 +32,7 @@ Row 9 -- Copy the values below, then right click on row 9 in your spreadsheet an
 | ID | ITEM_NUM | AWARD_YEAR | ORIGIN_AIRPORT_ABBREV | ORIGIN_CITY_NAME | DESTINATION_AIRPORT_ABBREV | DESTINATION_CITY_NAME | YCA_FARE | XCA_FARE |
 | -- | -------- | ---------- | --------------------- | ---------------- | -------------------------- | --------------------- | -------- | -------- |   
 
-4. Rename this spreadsheet to `Worksheet`
+4. Double-click teh bottom tab labeled `Sheet1` and rename this spreadsheet to `Worksheet`.
 
 5. Select "Tools...Script Editor" to open a Google script.
 

@@ -20,7 +20,7 @@ Populate a Google Spreadsheet with data from a REST API.
 
 3. Create a new Google spreadsheet and name it Code_Along_API_Sample.
 
-3. Enter the following to set up the spreadsheet (if you copy and paste, be sure to right click and paste "Values only":
+3. Enter the following to set up the spreadsheet (if you copy and paste, be sure to right click and paste "Values only"):
 
 A1 - `Code Along API`
 

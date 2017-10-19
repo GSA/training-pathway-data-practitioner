@@ -43,15 +43,15 @@ We will cover the following:
   * How to write a good issue
   * How to refer to other issues
   * How to find an issue to work on
+* Introduction to forking
+  * What a fork is
+  * How to fork
+  * Committing to a fork
 * Introduction to commits
   * What a commit is
   * Best practices for commits
     * How much to commit at once
     * Writing good commit messages
-* Introduction to forking
-  * What a fork is
-  * How to fork
-  * Committing to a fork
 * Introduction to pull requests
   * How to submit a pull request
   * How to refer to issues

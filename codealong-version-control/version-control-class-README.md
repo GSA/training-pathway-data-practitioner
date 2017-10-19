@@ -63,7 +63,8 @@ Slides are forthcoming
 ## Setup
 
 1. Create a [GitHub](https://github.com/) account if you don't already have one
-2. Set up your GitHub account [according to GSA standards](https://github.com/GSA/GitHub-Administration)
+2. Verify your email address (GitHub will send you a verification email)
+3. Set up your GitHub account [according to GSA standards](https://github.com/GSA/GitHub-Administration)
 
 ## Labs
 

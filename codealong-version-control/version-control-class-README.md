@@ -70,10 +70,11 @@ Slides are forthcoming
 
 ### Version control
 
-* Issues
-* Commits
-* Forking
-* Pull requests
+* Lab 0: Setup
+* Lab 1: Issues
+* Lab 2: Forking
+* Lab 3: Commits
+* Lab 4: Pull requests
 
 ## Class Supplements
 

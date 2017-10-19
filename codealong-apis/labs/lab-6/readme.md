@@ -118,7 +118,7 @@ Click save.
 
 15. When the message disappears, switch the Chrome tab to view the spreadsheet. There should be data populated in row 10 and below.
 
-![Spreadsheet with data in row 10](lab_6_step_15.JPG)
+![alt text](lab_6_step_15.JPG "Spreadsheet with data in row 10")
 
 
 
@@ -164,13 +164,17 @@ Click Save.
 
 18. In the script editor, select `getCityPairsByOriginationCity` from the drop-down box.
 
+Click the "Run" triangle symbol.
+
 19. After the function runs, switch to the spreadsheet tab. The data should be replaced.
+
+![alt text](lab_6_step_19.JPG "Spreadsheet with data replaced.")
 
 ### Adding Destination City parameter
 
 20. Add the following values to the spreadsheet:
 
-A6 - `Desintation City Abbreviation`
+A6 - `Destination City Abbreviation`
 
 B6 - `DCA - WASHINGTON`
 
@@ -203,9 +207,13 @@ B6 - `DCA - WASHINGTON`
 ```
 Click Save.
 
-22. In the script editor, select `getCityPairsByDestinationCity` from the drop-down box.
+22. In the script editor, select `getCityPairsByDestinationCity` from the drop-down box. 
+
+Click the "Run" triangle symbol.
 
 23. After the function runs, switch to the spreadsheet tab. The data should be replaced.
+
+![alt text](lab_6_step_23.JPG "Spreadsheet with data replaced.")
 
 ### Add method using both parameters
 
@@ -249,7 +257,11 @@ Click Save.
 
 25. In the script editor, select `getCityPairsByBoth` from the drop-down box.
 
+Click the "Run" triangle symbol.
+
 26. After the function runs, switch to the spreadsheet tab. The data should be replaced.
+
+![alt text](lab_6_step_26.JPG "Spreadsheet with data replaced.")
 
 ### Add Function Calls to Menu
 
@@ -271,9 +283,11 @@ Click Save.
 
 28. Switch to spreadsheet and refresh or reload the page.
 
-29. After a few seconds, the menu should be added titled `Call City Pair API`
+29. After a few seconds, the menu should be added titled `Call City Pair API`.
 
-30. Test all 3 methods from the menu and verify data is updated each time.
+![alt text](lab_6_step_29.JPG "Menu added to spreadsheet")
+
+30. Test all 3 functions from the menu and verify data is updated each time.
 
 
 ### BONUS MATERIAL: POPULATING DROP-DOWN BOXES FOR PARAMETERS
@@ -307,7 +321,7 @@ Click Save.
 
 43. Repeat steps 31-41 to add a drop-down box for Destination City, using the correct data from the Excel spreadseheet.
 
-
+![alt text](lab_6_step_43.JPG "Validation added to drop-downs.")
 
 
 

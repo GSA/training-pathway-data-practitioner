@@ -22,7 +22,7 @@ Building a web page that uses APIs.
 
 https://ea.gsa.gov/api/v0/itstandards
 
-5. Make a copy of the file GEAR_1.html from the repository and save to your local hard drive.
+5. Make a copy of the file [GEAR_1.html](GEAR_1.html) from the repository and save to your local hard drive.
 
 6. Double click on the file where it is stored on your local hard drive to open it in the browser. If it opens in IE, copy the address from IE and open a tab in Chrome. Paste the address into the Chrome address bar. It will start with `file://`.
 

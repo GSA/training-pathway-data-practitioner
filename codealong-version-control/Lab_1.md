@@ -20,23 +20,23 @@ Right now, there's only one issue, titled "[Add some files for the class to work
 
 ## Exercise 2: Create a new issue
 
-1. Make sure you are on the [jfredrickson5/code-along](https://github.com/jfredrickson5/code-along) repository (not the GSA/training-pathway-data-practitioner repository).
+*Throughout the exercise, make sure you are on the [jfredrickson5/code-along](https://github.com/jfredrickson5/code-along) repository (not the GSA/training-pathway-data-practitioner repository).*
 
-2. Click the **New issue** button.
+1. Click the **New issue** button.
 
-3. Give the issue a title that you'll be able to remember later. See the screenshot below for an example.
+2. Give the issue a title that you'll be able to remember later. See the screenshot below for an example.
 
-4. Type a brief but useful description. See the screenshot below for an example.
+3. Type a brief but useful description. See the screenshot below for an example.
 
-5. In the description, link to issue #1 simply by typing `#1` somewhere in the description. GitHub will automatically link to that issue number. See the screenshot below for an example.
+4. In the description, link to issue #1 simply by typing `#1` somewhere in the description. GitHub will automatically link to that issue number. See the screenshot below for an example.
 
-6. In the description, refer to another GitHub user by using the @ symbol. Type `@jfredrickson5` somewhere in the description. See the screenshot below for an example.
+5. In the description, refer to another GitHub user by using the @ symbol. Type `@jfredrickson5` somewhere in the description. See the screenshot below for an example.
 
 ![screenshot of creating a new GitHub issue](assets/lab1_new_issue.png)
 
-7. Preview your issue by clicking on the "Preview" tab in the new issue form. This will help you confirm that your issue is correctly linking to issue #1 and the other GitHub user.
+6. Preview your issue by clicking on the "Preview" tab in the new issue form. This will help you confirm that your issue is correctly linking to issue #1 and the other GitHub user.
 
-8. When your issue looks ready to go, click **Submit new issue**.
+7. When your issue looks ready to go, click **Submit new issue**.
 
 You should now see your new issue. There will be a comment field below it, allowing anyone to comment on your issue.
 

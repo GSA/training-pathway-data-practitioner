@@ -47,3 +47,7 @@ You should now see your new issue. There will be a comment field below it, allow
 * You were able to create a new issue in a public repository owned by someone else. They didn't have to give you special access to do so. This encourages open collaboration.
 
 * You can refer to other issues and other GitHub users by using `#` and `@`. This helps pull in related issues and other users that might be able to out with the issue.
+
+-----
+
+[Return to the list of labs](/codealong-version-control)

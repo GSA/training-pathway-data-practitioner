@@ -24,7 +24,7 @@ After a few seconds, you should have a full copy of the original code-along repo
 
 1. Look at the title of your newly created repository. It should say `your_username/code-along`, and below that, it should say "forked from [jfredrickson5/code-along](https://github.com/jfredrickson5/code-along)". This is how you know your repository is a fork.
 
-2. At the top of your repository's file list, there will be a message saying "This branch is even with jfredrickson5:master." This means your repository is currently an identical copy of the original repository.
+2. Look at the top of your repository's file list. There will be a message saying "This branch is even with jfredrickson5:master." This means your repository is currently an identical copy of the original repository.
 
 3. Notice that the **Issues** tab is missing on your fork. GitHub automatically removes the Issues feature when you fork. The idea behind forks is that they are a place for you to do work before contributing your work back to the original repository. Therefore, issues should be centrally tracked in the original repository. 
 

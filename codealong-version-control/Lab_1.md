@@ -38,7 +38,7 @@ Right now, there's only one issue, titled "[Add some files for the class to work
 
 7. When your issue looks ready to go, click **Submit new issue**.
 
-You should now see your new issue. There will be a comment field below it, allowing anyone to comment on your issue.
+You should now see your new issue. **Make a note of your issue number; you'll need it later on in Lab 4!** Your issue number is next to the title of your issue.
 
 ![screenshot of a new GitHub issue](assets/lab1_issue.png)
 

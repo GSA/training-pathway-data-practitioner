@@ -58,7 +58,7 @@ We will cover the following:
 
 ## Resources that go along with this
 
-Slides are forthcoming
+* [Slides: Version Control and GitHub](https://github.com/GSA/training-pathway-data-practitioner/blob/master/codealong-version-control/version_control_and_github_slides.pdf)
 
 ## Setup
 

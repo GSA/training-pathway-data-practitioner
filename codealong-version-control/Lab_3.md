@@ -30,7 +30,7 @@ You should now see your new file listed in your repository. Also, at the top of 
 
 1. In your repository, click the file name you just created. You should now see the contents of your file.
 
-2. Click the edit button (a pencil; see the screenshot below).
+2. Click the edit button (the button is a pencil icon; see the screenshot below).
 
 ![screenshot of file edit button](assets/lab3_edit_button.png)
 

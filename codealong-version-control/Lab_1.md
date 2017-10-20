@@ -20,7 +20,7 @@ Right now, there's only one issue, titled "[Add some files for the class to work
 
 ## Exercise 2: Create a new issue
 
-1. Make sure you are on the `jfredrickson5/code-along` repository (not the `GSA/training-pathway-data-practitioner` repository).
+1. Make sure you are on the [jfredrickson5/code-along](https://github.com/jfredrickson5/code-along) repository (not the GSA/training-pathway-data-practitioner repository).
 
 2. Click the **New issue** button.
 

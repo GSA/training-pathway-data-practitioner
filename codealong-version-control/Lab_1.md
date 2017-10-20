@@ -24,7 +24,7 @@ Right now, there's only one issue, titled "[Add some files for the class to work
 
 2. Click the **New issue** button.
 
-3. Give the issue a title that you'll be able to remember later.
+3. Give the issue a title that you'll be able to remember later. See the screenshot below for an example.
 
 4. Type a brief but useful description. See the screenshot below for an example.
 

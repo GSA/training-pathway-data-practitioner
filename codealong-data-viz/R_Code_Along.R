@@ -1,9 +1,10 @@
-##Loading Excel Package
-install.packages( "xlsx")
-library("xlsx")
-
 ##Load data/ Create dataframe
-T2H<-read.xlsx("//e04tcv-CIFS02.ent.ds.gsa.gov/R05_PUBLIC$/time-to-hire-data-file.xlsx", 1)
+library(readxl)
+T2H <- read_excel("//e04tcv-CIFS02.ent.ds.gsa.gov/R05_PUBLIC$/time-to-hire-data-file.xlsx")
+View(T2H)
+
+# Review dataframe
+summary(T2H)
 
 # Review dataframe
 summary(T2H)

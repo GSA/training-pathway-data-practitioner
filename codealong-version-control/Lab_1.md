@@ -10,7 +10,7 @@ Working with issues is a simple, and yet useful, way you can contribute to an op
 
 Throughout this class, we'll be practicing on this GitHub repository: https://github.com/jfredrickson5/code-along (right-click this link and open it in a new tab or new window so that you can switch between the lab instructions and the code-along repository).
 
-That repository contains our budding new open source project, so it's not much to look at right now.
+That repository, called `jfredrickson5/code-along`, contains our budding new open source project, so it's not much to look at right now.
 
 Let's take a look at the issues by clicking on the **Issues** tab at the top of the repository. You should now see a list of issues.
 

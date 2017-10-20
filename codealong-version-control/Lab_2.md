@@ -10,19 +10,19 @@ In this lab, we'll focus on how to create a fork.
 
 ## Exercise 1: Fork a repository
 
-1. Make sure you are on the [jfredrickson5/code-along](https://github.com/jfredrickson5/code-along) repository (not the GSA/training-pathway-data-practitioner repository).
+*Throughout the exercise, make sure you are on the [jfredrickson5/code-along](https://github.com/jfredrickson5/code-along) repository (not the GSA/training-pathway-data-practitioner repository).*
 
-2. Click the **Fork** button at the top right of the repository.
+1. Click the **Fork** button at the top right of the jfredrickson5/code-along repository.
 
 ![screenshot of the GitHub Fork button](assets/lab2_fork_button.png)
 
-3. If you've already had a GitHub account for a while and you're part of an organization such as GSA, then GitHub asks you where you want to fork the repository. Select your own account.
+2. If you've already had a GitHub account for a while and you're part of an organization such as GSA, then GitHub asks you where you want to fork the repository. Select your own account.
 
 After a few seconds, you should have a full copy of the original code-along repository. While you didn't have permission to make changes to the files in [jfredrickson5/code-along](https://github.com/jfredrickson5/code-along), you have full access to your own fork.
 
 ## Exercise 2: Review your fork
 
-1. Look at the name of your repository. It should say `your_username/code-along`, and below that, it should say "forked from [jfredrickson5/code-along](https://github.com/jfredrickson5/code-along)". This is how you know your repository is a fork.
+1. Look at the title of your newly created repository. It should say `your_username/code-along`, and below that, it should say "forked from [jfredrickson5/code-along](https://github.com/jfredrickson5/code-along)". This is how you know your repository is a fork.
 
 2. Notice that the **Issues** tab is missing on your fork. GitHub automatically removes the Issues feature when you fork. The idea behind forks is that they are a place for you to do work before contributing your work back to the original repository. Therefore, issues should be centrally tracked in the original repository. 
 

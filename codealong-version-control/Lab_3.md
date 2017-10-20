@@ -22,7 +22,7 @@ In Git, a commit is a set of changes to any number of files. Each commit has a l
 
 6. Click the **Commit new file** button.
 
-You should now see your new file listed in your repository. Also, at the top of the repository file listing, you'll see a message saying something like "This branch is 1 commit ahead of GSA:master." This means your fork has some content that the original repository doesn't have (not yet, at least).
+You should now see your new file listed in your repository. Also, at the top of the repository file listing, you'll see a message saying something like "This branch is 1 commit ahead of jfredrickson5:master." This means your fork has some content that the original repository doesn't have (not yet, at least).
 
 ## Exercise 2: Change a file
 
@@ -42,7 +42,7 @@ You should now see your new file listed in your repository. Also, at the top of 
 
 6. Click the **Commit changes** button.
 
-At the top of the repository file listing, you'll now see "This branch is 2 commits ahead of GSA:master."
+At the top of the repository file listing, you'll now see "This branch is 2 commits ahead of jfredrickson5:master."
 
 ## Takeaways
 

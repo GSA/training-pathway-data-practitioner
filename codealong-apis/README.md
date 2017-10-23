@@ -2,10 +2,6 @@
 
 This will be a hands-on session to learn tools and coding techniques for exploring and using APIs. Students will leave with a greater understanding of GSA's APIs, and resources to take their learning to the next level.
 
-##Take this quiz
-https://docs.google.com/forms/d/e/1FAIpQLSdQkaY3lBGIjN2oNjjrgxKwur2E7zK2gonp8Uw8p4RoH4fZSQ/viewform?c=0&w=1&usp=mail_form_link
-
-
 ## About this class
 
 Course instruction will be instructor-led and hands-on with delivery conducted in-person.

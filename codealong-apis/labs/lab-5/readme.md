@@ -22,7 +22,7 @@ Building a web page that uses APIs.
 
 https://ea.gsa.gov/api/v0/itstandards
 
-5. Create a folder on your Windows desktop nameed "API-Lab-5". Right click and download the file [GEAR_1.html](GEAR_1.html) from the repository and save to the folder you created.
+5. Create a folder on your Windows desktop nameed "API-Lab-5". Right click and download the file [GEAR_1.html](https://raw.githubusercontent.com/GSA/training-pathway-data-practitioner/master/codealong-apis/labs/lab-5/GEAR_1.html) from the repository and save to the folder you created.
 
 6. Double click on the file where it is stored on your local hard drive to open it in the browser. If it opens in IE, copy the address from IE and open a tab in Chrome. Paste the address into the Chrome address bar. It will start with `file://`.
 
@@ -76,7 +76,7 @@ $('#location').append(trHTML);
 ### GEAR DETAIL PAGE
 
 
-10. Make a copy of the file GEAR_2.html from the repository and save to your local hard drive in the same folder as the first file.
+10. Right click and download the file [GEAR_2.html](https://raw.githubusercontent.com/GSA/training-pathway-data-practitioner/master/codealong-apis/labs/lab-5/GEAR_2.html) from the repository and save to the folder you created.
 
 11. Open another browser tab and copy the URL from the first file. Then change GEAR_1.html to GEAR_2.html to open the second file in the browser.
 

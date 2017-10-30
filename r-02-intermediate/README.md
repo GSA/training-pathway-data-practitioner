@@ -1,27 +1,19 @@
 # Intermediate R
 
 ## About this class:
-Visualization best practices through advanced data analytics tools for building customer reports and dashboards. 
-Histogram, bar chart, scatterplot using packages
-Which one to use when.
-review/read documentation + resources
-
-__Package includes:__ 
-   
-    1. For R track: ggplot2
-    
-    2. For python track: matplotlib and seaborn
+R is a language and environment for statistical computing and graphics. In this intermediate programming with R class, you'll continue to build build on the computer science fundamentals learned in the beginner course. Concepts covered will include conditionals, loops, functions, and flow control to create more robust programs.
 
 Course instruction will be instructor-led and hands-on with delivery conducted both in-person, as well as virtual.
 
 ## Pre-class Requirement
 
+Successful completion of Beginner Programming in R.
+
 ## What will we do?
 
 ### Course Outline
 #### Class 1 (90 mins): Intermediate R
-Materials: Anaconda 4.3 (Includes R v 3.4.1, “Single Candle”)
-Latest version of R download from CRAN: [https://www.r-project.org/](https://www.r-project.org/)
+Materials: GSA DSVD access
 
 Topics include: 
 

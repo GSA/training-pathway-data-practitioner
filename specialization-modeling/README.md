@@ -1,5 +1,5 @@
 # Track 3: Modeling
-[Note: Must take classes from Track 2 in order to take classes from Track 3]
+
 ## About this class: 
 Data Modeling track will focus on building data models for reporting needs for GSA applications. Topics include: Sizing/Estimation, Linear Regression, Nonlinear Regression, K-Means Clustering, Decision Trees
 

@@ -21,7 +21,7 @@ None
 - Setting expectations on what we'll learn
 
 ## Are there any resources that go along with this?
-Yes! Here are the ["slides"](https://github.com/GSA/training-pathway-data-practitioner/blob/master/data-science-01-beginner/intro-to-data-science.pdf).
+Yes! Here are the ["slides"](https://github.com/GSA/training-pathway-data-practitioner/blob/master/data-science-01-beginner/Intro to Data Science.pdf).
 
 ## Setup
 None required.

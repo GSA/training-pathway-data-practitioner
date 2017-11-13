@@ -40,7 +40,7 @@ By coding along with this class, you will:
 
 
 ## Are there any resources that go along with this?
-Yes! Here are the ["slides"](#).
+Yes! Here are the ["slides"](https://github.com/GSA/training-pathway-data-practitioner/blob/saracope-patch-1/r-01-beginner/beginner-r-programming.pdf).
 
 ## Setup
 Please make sure you have the following software installed before beginning this class.

@@ -25,7 +25,7 @@ Topics include:
     - Dplyr
 
 ## Are there any resources that go along with this?
-Yes! Here are the ["slides"](#).
+Yes! Here are the ["slides"](https://github.com/GSA/training-pathway-data-practitioner/blob/master/r-02-intermediate/intermediate-r.pdf).
 
 ## Setup
 Please make sure you have the following software installed before beginning this class.

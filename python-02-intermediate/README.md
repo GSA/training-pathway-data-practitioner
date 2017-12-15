@@ -46,5 +46,8 @@ Data Science Virtual Desktop (DSVD)
 ## Labs
 
 ## Class Supplements
+- [Code snippet](https://github.com/GSA/training-pathway-data-practitioner/blob/master/python-02-intermediate/code-snippet.txt)
+- [.csv file used](https://github.com/GSA/training-pathway-data-practitioner/blob/master/python-02-intermediate/code-snippet.txt)
 
 ## Other Resources
+[Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)

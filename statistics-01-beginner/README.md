@@ -53,6 +53,8 @@ Please make sure you have the following software installed before beginning this
 ## Labs
 
 ## Class Supplements
+- [A Hands-on Introduction to Statistics with R](https://www.datacamp.com/introduction-to-statistics)  
+- [Applied Modern Statistical Learning Techniques (R code)](https://www.alsharif.info/iom530)
 
 ## Other Resources
 Think Stats - Python ([book, .pdf](http://greenteapress.com/wp/think-stats-2e/))

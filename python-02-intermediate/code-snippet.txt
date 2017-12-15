@@ -1,0 +1,38 @@
+import pymysql  
+import pandas
+
+# open connection to the database  
+conn = pymysql.connect(host='HOSTNAME',  
+                       port=3306,  
+                       user='XXXXXXX',  
+                       passwd='XXXXXXXXXX',  
+                       db='GSA_D2D_Training',  
+                       charset='utf8')  
+
+df_db = pandas.read_sql('SELECT * FROM tbl_RexusLease',conn)
+
+
+# close connection to the database  
+conn.close()
+
+# CSV reading from Pandas into df
+df_csv = pandas.read_csv("\\\\e04tcm-vdipcfs3\\ReDir$\\<user>\\Documents\\datagovbldgrexus.csv")
+
+
+
+new_df = pandas.merge(df_db, df_csv, on='LocationCode', how='inner')
+
+sliced_df = new_df.loc[:, ['CongressionalDistrict','LeaseANSIRentableSqft','LeaseAnnualRentAmount']]
+#print(sliced_df.dtypes)
+
+sliced_df = sliced_df.loc[(sliced_df['CongressionalDistrict'].isin(['1','2','3'])) & (sliced_df['LeaseANSIRentableSqft']>200) ].sort_values(['LeaseANSIRentableSqft','LeaseAnnualRentAmount'], ascending=[1,0])
+sliced_df['AnnualPricePerSqft']=sliced_df['LeaseANSIRentableSqft']/sliced_df['LeaseAnnualRentAmount']
+
+std_df = sliced_df.groupby('CongressionalDistrict')['AnnualPricePerSqft'].std()
+mean_df = sliced_df.groupby('CongressionalDistrict')['AnnualPricePerSqft'].mean()
+
+mean_plot = mean_df.plot(figsize=(12,6),fontsize=12,color='red',kind='bar',rot=0,yerr=std_df)
+mean_plot.set_title('Average Proce/SQFT',fontsize=12)
+mean_plot.set_xlabel('Congressional District Number')
+mean_plot.set_ylabel('Price in USD')
+mean_plot.set_ylim(-0.15,0.15)

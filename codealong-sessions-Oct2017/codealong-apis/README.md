@@ -9,14 +9,13 @@ Course instruction will be instructor-led and hands-on with delivery conducted i
 ## Pre-class Requirement
 
 All students should have the following:
-1. A GitHub account - https://github.com/
-2. A GitHub account setup to GSA standards - https://github.com/GSA/GitHub-Administration
+1. A GitHub account setup to GSA standards - https://github.com/GSA/GitHub-Administration
 
 ## Pre-class Reading
 
 Please read the following prior to attending class:
 
-1. API Overview Presentation - [APIs Presentation](https://github.com/GSA/training-pathway-data-practitioner/blob/master/codealong-apis/APIs%20Presentation-RyanDay.pdf)
+1. API Overview Presentation - [APIs Presentation](https://github.com/GSA/training-pathway-data-practitioner/blob/master/codealong-sessions-Oct2017/codealong-apis/APIs%20Presentation-RyanDay.pdf)
 2. GSA API Standards - [https://tech.gsa.gov/guides/API_standards/](https://tech.gsa.gov/guides/API_standards/)
 
 
@@ -30,7 +29,7 @@ Please read the following prior to attending class:
 
 ## Slides
 Slides for the class can be found here:
-[APIs Code-Along Slides - Ryan Day.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/codealong-apis/APIs%20Code-Along%20Slides%20-%20Ryan%20Day.pdf)
+[APIs Code-Along Slides - Ryan Day.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/codealong-sessions-Oct2017/codealong-apis/APIs%20Code-Along%20Slides%20-%20Ryan%20Day.pdf)
 
 
 

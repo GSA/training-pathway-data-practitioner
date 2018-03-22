@@ -1,5 +1,6 @@
 Data Science Practitioner Training Program - Cohort 2
 
+## Planned Classes
 
 |Class   |Duration  |Medium   |Instructor   |Note   |
 |---|---|---|---|---|
@@ -34,7 +35,18 @@ Data Science Practitioner Training Program - Cohort 2
 |Intermediate Content Management |3 hrs |Live | |
 |Advanced Content Management |3 hrs |Live | |
 |Human-centered Design |8 hrs (full day) |Live |OCE & OPM |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+
+## Capstone Project Timeline
+|Project Deadlines  |Date  |
+|---|---|
+|Identify your problem  |April 6  | 
+|Identify your data  |April 27  |
+|Summarize your capstone project  |May 11  |
+|Self-directed project work  |March - September 2018  |
+|Submit project  |September 30  |
+|Schedule project review session  |October 2018  |
+
+
+## Resources 
+
+

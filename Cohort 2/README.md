@@ -5,7 +5,7 @@ Data Science Practitioner Training Program - Cohort 2
 |Class   |Duration  |Medium   |Instructor   |Note   |
 |---|---|---|---|---|
 |Python for Data Science   |4 hrs   |OLU   |   |   |
-|Data Science Overview   |1.5 hrs   |Live   |Jonathan Joa & Scott McAllister   |   |
+|Data Science Overview   |1.5 hrs   |Live   |Jonathan Joa & Scott McAllister   |[Slides](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Intro-to-Data-Science-March2018.pdf) (.pdf)   |
 |DSVD Overview   |.5 hrs   |Live   |Jasmeen Bowmaster   |   |
 | Python 1 - class  |2 hrs   |Online   |DataCamp   |Intro to Python for Data Science course. Python Basics & Python Lists chapters   |
 |Python 1 - hands-on   |1.5 hrs   |Live   |Raed   |   |

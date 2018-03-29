@@ -8,7 +8,7 @@ Data Science Practitioner Training Program - Cohort 2
 |Data Science Overview   |1.5 hrs   |Live   |Jonathan Joa & Scott McAllister   |[Slides](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Intro-to-Data-Science-March2018.pdf) (.pdf)   |
 |DSVD Overview   |.5 hrs   |Live   |Jasmeen Bowmaster   |   |
 | Python 1 - class  |2 hrs   |Online   |DataCamp   |[Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) course. Python Basics, Python Lists chapters   |
-|Python 1 - hands-on   |2 hrs   |Live   |Raed   |   |
+|Python 1 - hands-on   |2 hrs   |Live   |Raed   | Slides ([.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Python%20For%20Data%20Science%20-%20Introduction%20-%20COHORT2.pdf)) ([.ppt](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Python%20For%20Data%20Science%20-%20Introduction%20-%20COHORT2.pptx))  |
 |Python 2 - class   |2 hrs   |Online   |DataCamp   |[Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) course. Functions and Packages & NumPy chapters   |
 |Python 2 - hands-on  |2 hrs  |Live  |Raed  |  |
 |Python 3 - class  |2 hrs  |Online  |DataCamp  |[Intermediate Python for DS](https://www.datacamp.com/courses/intermediate-python-for-data-science) - Matplotlib, Dictionaries & Pandas, Logic, Control Flow and Filtering, and Loops chapters   |

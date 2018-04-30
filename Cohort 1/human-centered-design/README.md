@@ -15,7 +15,7 @@ Videos and Podcasts:
 
 Articles:
 * [Making the Case for Ambiguity in Government Innovation](https://www.govloop.com/making-case-ambiguity-government-innovation/)
-* [How Citizen-Centered Design is Changing Government}(https://www.fastcoexist.com/3062003/how-citizen-centered-design-is-changing-the-ways-the-government-serves-the-people)
+* [How Citizen-Centered Design is Changing Government](https://www.fastcoexist.com/3062003/how-citizen-centered-design-is-changing-the-ways-the-government-serves-the-people)
 * [Affordable Housing in Brownsville, TX](http://www.citylab.com/housing/2014/10/in-americas-poorest-city-a-housing-breakthrough/380912/)
 * [A Refresher on Discovery Driven Planning](https://hbr.org/2017/02/a-refresher-on-discovery-driven-planning)
 

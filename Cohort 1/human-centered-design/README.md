@@ -1,5 +1,7 @@
 Resources:
 
+[HCD Discovery Field Guide](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%201/human-centered-design/HCD-Discovery-Guide-Interagency-v1.2.pdf) (mandatory reading)
+
 Videos and Podcasts:
 * [What is Design Thinking video](https://vimeo.com/90355541)
 * [Mixed Methods Podcast](https://www.mixed-methods.org/)

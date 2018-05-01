@@ -36,14 +36,17 @@ Data Science Practitioner Training Program - Cohort 2
 |Advanced Content Management |3 hrs |Live | |
 |Human-centered Design |8 hrs (full day) |Live |OCE & OPM |
 
-## Capstone Project Timeline
+## Capstone Project 
+[Capstone Requirements doc](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Science%20Capstone%20Project%20-%20Cohort%202.pdf)
+### Timeline
 |Project Deadlines  |Date  |
 |---|---|
 |Identify your problem  |April 6  | 
 |Identify your data  |April 27  |
-|Summarize your capstone project  |May 11  |
-|Self-directed project work  |March - September 2018  |
-|Submit project  |September 30  |
+|Summarize your capstone project - 1 pager  |May 11  |
+|First project presentation  | July 10-13  |
+|Final project paper and slides due  |September 30  |
+|Executive briefing | October 2018 |
 |Schedule project review session  |October 2018  |
 
 

@@ -19,7 +19,7 @@ Upon completion of the class, participants will be able to unpublish Reports, Re
 ### Course Outline
 
 ## Are there any resources that go along with this?
-Yes! Here are the ["slides"](#).
+Yes! Here are the ["slides"](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%201/content-mgmt-01-beginner/Beginner%20Customer%20Content%20Management%20-%20D2D%20Portal.pdf).
 
 ## Setup
 Please make sure you have the following before beginning this class.

@@ -41,9 +41,9 @@ Data Science Practitioner Training Program - Cohort 2
 ### Timeline
 |Project Deadlines  |Date  |
 |---|---|
-|Identify your problem  |April 6  | 
-|Identify your data  |April 27  |
-|Summarize your capstone project - 1 pager  |May 11  |
+|#1: Identify your problem  |April 6  | 
+|#2: Identify your data  |April 27  |
+|#3: Summarize your capstone project - 1 pager  |May 18  |
 |First project presentation  | July 10-13  |
 |Final project paper and slides due  |September 30  |
 |Executive briefing | October 2018 |

@@ -14,7 +14,7 @@ Data Science Practitioner Training Program - Cohort 2
 |Python 3 - class  |2 hrs  |Online  |DataCamp  |[Intermediate Python for DS](https://www.datacamp.com/courses/intermediate-python-for-data-science) - Matplotlib, Dictionaries & Pandas, Logic, Control Flow and Filtering, and Loops chapters   |
 |Python 3 - hands-on  |2 hrs  |Live  |Raed  | Slides ([.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Python%20For%20Data%20Science%20-%20Intermediate%20-%20COHORT2.pdf) ) ([.ppt](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Python%20For%20Data%20Science%20-%20Intermediate%20-%20COHORT2.pptx))|
 |Statistics 1 - class |2 hrs  |Online  |DataCamp  |[Statistical Thinking in Python (part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) - Graphical exploratory data analysis and Quantitative exploratory data analysis chapters  |
-|Statistics 1 - hands-on  |2 hrs  |Live  |Mark  |  |
+|Statistics 1 - hands-on  |2 hrs  |Live  |Mark  | Materials are available [here](https://github.com/GSA/training-pathway-data-practitioner/tree/master/Cohort%202/statistics-1) |
 |Statistics 2 - class |2 hrs  |Online  |DataCamp  |[Statistical Thinking in Python (part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) - Thinking probabilistically -- Discrete variables and Continuous variables chapters  |
 |Statistics 2 - hands-on  |2 hrs  |Live  |Mark  |  |
 |Data Engineering 1 - class  |2 hrs  |Online  |DataCamp  |[Cleaning data in Python](https://www.datacamp.com/courses/cleaning-data-in-python). Exploring your data, Tidying data for analysis, Cleaning data for analysis chapters.  |

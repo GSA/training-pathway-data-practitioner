@@ -1,0 +1,187 @@
+#%%
+# 28 - def load_iris(return_X_y=False):
+
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+dfIris = pd.read_csv('D:\\Acuity\\D2D\\Data Science Training\\Python\\Iris.csv')
+npIris = np.genfromtxt('D:\\Acuity\\D2D\\Data Science Training\\Python\\Iris.csv', delimiter=',')
+versicolor = npIris[51:101]
+versPetalLength = versicolor[:, 2]
+versPetalWidth = versicolor[:, 3]
+
+plt.plot(dfIris)
+
+## ----------------------
+
+# 29 -31 histograms
+plt.hist('Sepal.Length', data = dfIris, bins = 5)
+plt.hist('Sepal.Length', data = dfIris, bins = 10)
+plt.hist('Sepal.Length', data = dfIris, bins = 20)
+
+
+# 32 - bee swarm plot
+
+sns.swarmplot(x = 'Species', y = 'Petal.Length', data = dfIris)
+
+# 33 ECDF
+def ecdf(data):
+    n = len(data)
+    x = np.sort(data)
+    y = np.arange(1, n + 1) / n
+    return x, y
+
+x_vers, y_vers = ecdf(versPetalLength)
+plt.plot(x_vers, y_vers, marker = '.', linestyle = 'none')
+    
+# 35 mean
+
+mean_versPetalLenght = np.mean(versPetalLength)
+print('mean versicolor petal length =', mean_versPetalLenght, 'cm')
+
+# 37 boxplots
+
+sns.boxplot(x = 'Species', y = 'Petal.Length', data = dfIris)
+
+# 39, 40, 42 -43 variance, std, covarince, correlation
+
+var_versicolorPetalLenght = np.var(versPetalLength)
+print(var_versicolorPetalLenght)
+
+std_versicolorPetalLength = np.std(versPetalLength)
+print(std_versicolorPetalLength)
+
+cov_versPetalLengthWidth = np.cov(versPetalLength, versPetalWidth)
+print(cov_versPetalLengthWidth)
+
+corr_versPetalLengthWidth = np.corrcoef(versPetalLength, versPetalWidth)
+print(corr_versPetalLengthWidth)
+
+# 41 scatter plots
+import seaborn as sns
+sns.set()
+plt.plot('Sepal.Length', 'Petal.Length', marker = '.', linestyle = 'none', data = dfIris)
+plt.show()
+
+# 44 np.random
+
+np.random.seed(42)
+random_numbers = np.empty(100000)
+
+for i in range(100000):
+    random_numbers[i] = np.random.random()
+    
+plt.hist(random_numbers)
+
+# 46 Bernoulli trials
+
+# np.random.seed(42)
+def perform_bernoulli_trails(n, p):
+    n_success = 0
+    
+    for i in range(n):
+        random_number = np.random.random()
+        if random_number < p:
+            n_success += 1
+            
+    return n_success
+
+trial1 = perform_bernoulli_trails(1000, 0.7)
+print(trial1)
+
+n_defaults = np.empty(1000)
+for i in range(1000):
+    n_defaults[i] = perform_bernoulli_trails(100, 0.05)
+    
+plt.hist(n_defaults, normed = True)
+
+# 48 ecdf for will the bank fail
+
+prob, defaults = ecdf(n_defaults) 
+plt.plot(prob, defaults, marker = '.', linestyle = 'none')
+
+# 49 binomial distribution
+
+n_defaults = np.random.binomial(100, 0.05, size = 10000)
+prob, defaults = ecdf(n_defaults)
+plt.plot(prob, defaults, marker = '.', linestyle = 'none')
+
+# probability mass distribution function
+
+bins = np.arange(0, max(n_defaults) + 1.5) - 0.5
+plt.hist(n_defaults, normed = True, bins = bins)
+
+# 51 - relate binomial and Poisson
+
+poisson = np.random.poisson(10, size = 10000)
+print('Poisson:      ', np.mean(poisson),
+                        np.std(poisson))
+
+n = [20, 100, 1000]
+p = [0.5, 0.1, 0.01]
+
+for i in range(3):
+    binomial = np.random.binomial(n[i], p[i], size = 10000)
+    
+print('n =', n[i], 'binomial:', np.mean(binomial),
+                                np.std(binomial))
+
+# 52 - was 2015 anamalous 
+
+n_nohitters = np.random.poisson(251/115, size = 10000)
+
+n_large = np.sum(n_nohitters >= 7)
+
+p_large = n_large / len(n_nohitters)
+
+print('Probability of seven or more no-hitters:', p_large)
+
+# 53 - normal probability density function
+
+samples_std1 = np.random.normal(20, 1, size = 10000)
+samples_std3 = np.random.normal(20, 3, size = 10000)
+samples_std10 = np.random.normal(20, 10, size = 10000)
+
+plt.hist(samples_std1, normed = True, bins = 100, histtype = 'step')
+plt.hist(samples_std3, normed = True, bins = 100, histtype = 'step')
+plt.hist(samples_std10, normed = True, bins = 100, histtype = 'step')
+
+plt.legend(('std = 1', 'std = 3', 'std = 10'))
+plt.ylim(-0.01, 0.42)
+plt.show()
+
+# 54 - normal cumulative distribution function
+
+x_std1, y_std1 = ecdf(samples_std1)
+x_std3, y_std3 = ecdf(samples_std3)
+x_std10, y_std10 = ecdf(samples_std10)
+
+plt.plot(x_std1, y_std1, marker = '.', linestyle = 'none')
+plt.plot(x_std3, y_std3, marker = '.', linestyle = 'none')
+plt.plot(x_std10, y_std10, marker = '.', linestyle = 'none')
+
+plt.legend(('std = 1', 'std = 3', 'std = 10'), loc = 'lower right')
+
+# 55 - belmont stakes normally distributed
+
+     ## - no data
+
+# 56 - chances of beating secreteriat's record
+
+    ## - no data
+    
+# 57 - simulate no-hitting in baseball
+    
+def successive_poisson(tau1, tau2, size = 1):
+    t1 = np.random.exponential(tau1, size = size)
+    t2 = np.random.exponential(tau2, size = size)
+    
+    return t1 + t2
+
+waiting_times = successive_poisson(764, 715, size = 100000)
+
+plt.hist(waiting_times, bins = 100, normed = True, histtype = 'step')
+

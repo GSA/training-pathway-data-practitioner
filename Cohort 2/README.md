@@ -21,10 +21,12 @@ Data Science Practitioner Training Program - Cohort 2
 |Data Engineering 1 - hands-on  |2 hrs  |Live  |  |  |
 |Data Visualization (Elective) - class |2 hrs |Online |DataCamp |[Into to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python) |
 |Data Visualization (Elective ) - hands-on |2hrs |Live | | |
-|Data Engineering 2 (Elective) - class |2 hrs |Online |DataCamp |[Intro to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python) |
+|Data Engineering 2 (Elective) - class |2 hrs |Online |DataCamp |[Importing Data in Python (part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2) |
 |Data Engineering 2 (Elective) - hands-on |2 hrs |Live | | |
-|Data Modeling (Elective) - class |2 hrs |Online |DataCamp | |
-|Data Modeling (Elective) - hands-on |2 hrs |Live | | |
+|Statistical Data Modeling (Elective) - class |2 hrs |Online |DataCamp | [Statistical Thinking in Python (part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) |
+|Statistical Data Modeling (Elective) - hands-on |2 hrs |Live | | |
+|SQL (Elective) - class |2 hrs |Online |DataCamp |[Intro to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python) |
+|SQL (Elective) - hands-on |2 hrs |Live | | |
 |Beginner Tableau |3 hrs (2 sessions) |Live  |Walter | |
 |Intermediate Tableau |3 hrs (2 sessions) |Live  |Walter | |
 |Advanced Tableau |3 hrs (2 sessions) |Live  |Walter | |

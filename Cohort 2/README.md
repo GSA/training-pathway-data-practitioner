@@ -29,7 +29,7 @@ Data Science Practitioner Training Program - Cohort 2
 |SQL (Elective) - hands-on |2 hrs |Live | | |
 |Beginner Tableau |3 hrs (2 sessions) |Live  |Walter | |
 |Intermediate Tableau |3 hrs (2 sessions) |Live  |Walter | |
-|Advanced Tableau |3 hrs (2 sessions) |Live  |Walter | |
+|Advanced Tableau |3 hrs (2 sessions) |Live  |Walter | [Class materials](https://github.com/GSA/training-pathway-data-practitioner/tree/master/Cohort%202/advanced-tableau) |
 |Beginner MicroStrategy |1.5 hrs |Live | |
 |Intermediate MicroStrategy |1.5 hrs |Live | |
 |Advanced MicroStrategy |1.5 hrs |Live | |

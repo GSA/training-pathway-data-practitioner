@@ -25,7 +25,7 @@ Data Science Practitioner Training Program - Cohort 2
 |Data Engineering 2 (Elective) - hands-on |2 hrs |Live | | |
 |Statistical Data Modeling (Elective) - class |2 hrs |Online |DataCamp | [Statistical Thinking in Python (part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) |
 |Statistical Data Modeling (Elective) - hands-on |2 hrs |Live | | |
-|SQL (Elective) - class |2 hrs |Online |DataCamp |[Intro to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python) |
+|SQL (Elective) - class |2 hrs |Online |DataCamp |[Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science) |
 |SQL (Elective) - hands-on |2 hrs |Live | | |
 |Beginner Tableau |3 hrs (2 sessions) |Live  |Walter | |
 |Intermediate Tableau |3 hrs (2 sessions) |Live  |Walter | |

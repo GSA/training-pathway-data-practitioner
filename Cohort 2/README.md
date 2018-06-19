@@ -17,8 +17,8 @@ Data Science Practitioner Training Program - Cohort 2
 |Statistics 1 - hands-on  |2 hrs  |Live  |Mark  | Materials are available [here](https://github.com/GSA/training-pathway-data-practitioner/tree/master/Cohort%202/statistics-1) |
 |Statistics 2 - class |2 hrs  |Online  |DataCamp  |[Statistical Thinking in Python (part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) - Thinking probabilistically -- Discrete variables and Continuous variables chapters  |
 |Statistics 2 - hands-on  |2 hrs  |Live  |Mark  |  |
-|Data Engineering 1 - hands-on  |3 hrs  |Live  |  |  |
-|Data Visualization (Elective ) - hands-on |3 hrs |Live | | |
+|Data Engineering 1 - hands-on  |3 hrs  |Live  | Raed |Data Engineering 1 Slides  ([ppt.](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Engineering%202.pptx)) ([pdf.](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Engineering%202.pptx.pdf))|
+|Data Visualization (Elective ) - hands-on |3 hrs |Live | Mark| Data Viz. ([ppt.](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Visualization.pptx)) ([pdf.](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Visualization.pptx.pdf)) <br/> Data Viz w. Python ([ppt.](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Visualization%20with%20Python.pptx)) ([pdf.](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Visualization%20with%20Python.pptx.pdf)) |
 |Data Engineering 2 (Elective) - hands-on |3 hrs |Live | | |
 |Statistical Data Modeling (Elective) - hands-on |3 hrs |Live | | |
 |SQL (Elective) - hands-on |3 hrs |Live | | |

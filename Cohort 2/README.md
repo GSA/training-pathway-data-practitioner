@@ -17,16 +17,11 @@ Data Science Practitioner Training Program - Cohort 2
 |Statistics 1 - hands-on  |2 hrs  |Live  |Mark  | Materials are available [here](https://github.com/GSA/training-pathway-data-practitioner/tree/master/Cohort%202/statistics-1) |
 |Statistics 2 - class |2 hrs  |Online  |DataCamp  |[Statistical Thinking in Python (part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) - Thinking probabilistically -- Discrete variables and Continuous variables chapters  |
 |Statistics 2 - hands-on  |2 hrs  |Live  |Mark  |  |
-|Data Engineering 1 - class  |2 hrs  |Online  |DataCamp  |[Cleaning data in Python](https://www.datacamp.com/courses/cleaning-data-in-python). Exploring your data, Tidying data for analysis, Cleaning data for analysis chapters.  |
-|Data Engineering 1 - hands-on  |2 hrs  |Live  |  |  |
-|Data Visualization (Elective) - class |2 hrs |Online |DataCamp |[Into to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python) |
-|Data Visualization (Elective ) - hands-on |2hrs |Live | | |
-|Data Engineering 2 (Elective) - class |2 hrs |Online |DataCamp |[Importing Data in Python (part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2) |
-|Data Engineering 2 (Elective) - hands-on |2 hrs |Live | | |
-|Statistical Data Modeling (Elective) - class |2 hrs |Online |DataCamp | [Statistical Thinking in Python (part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2) |
-|Statistical Data Modeling (Elective) - hands-on |2 hrs |Live | | |
-|SQL (Elective) - class |2 hrs |Online |DataCamp |[Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science) |
-|SQL (Elective) - hands-on |2 hrs |Live | | |
+|Data Engineering 1 - hands-on  |3 hrs  |Live  |  |  |
+|Data Visualization (Elective ) - hands-on |3 hrs |Live | | |
+|Data Engineering 2 (Elective) - hands-on |3 hrs |Live | | |
+|Statistical Data Modeling (Elective) - hands-on |3 hrs |Live | | |
+|SQL (Elective) - hands-on |3 hrs |Live | | |
 |Beginner Tableau |3 hrs (2 sessions) |Live  |Walter | |
 |Intermediate Tableau |3 hrs (2 sessions) |Live  |Walter | |
 |Advanced Tableau |3 hrs (2 sessions) |Live  |Walter |  |

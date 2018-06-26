@@ -19,7 +19,8 @@ Data Science Practitioner Training Program - Cohort 2
 |Statistics 2 - hands-on  |2 hrs  |Live  |Mark  |  |
 |Data Engineering 1 - hands-on  |3 hrs  |Live  | Raed |Data Engineering 1 Slides  ([ppt.](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Engineering%202.pptx)) ([pdf.](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Engineering%202.pptx.pdf))|
 |Data Visualization (Elective ) - hands-on |3 hrs |Live | Mark| Data Viz. ([.ppt](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Visualization.pptx)) ([.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Visualization.pptx.pdf)) <br/> Data Viz w. Python ([.ppt](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Visualization%20with%20Python.pptx)) ([.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Visualization%20with%20Python.pptx.pdf)) |
-|Data Engineering 2 (Elective) - hands-on |3 hrs |Live | | |
+|Data Engineering 2 (Elective) - hands-on |3 hrs |Live |Raed | Data Eng. 2([.ppt](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Engineering%202.pptx)) ([.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Engineering%202.pptx.pdf))|
+|Data Engineering 3 (Elective) - hands-on |3 hrs |Live |Raed |Data Eng. 3([.ppt](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Engineering%203.pptx)) ([.pdf](https://github.com/GSA/training-pathway-data-practitioner/blob/master/Cohort%202/Data%20Engineering%203.pptx.pdf)) |
 |Statistical Data Modeling (Elective) - hands-on |3 hrs |Live | | |
 |SQL (Elective) - hands-on |3 hrs |Live | | |
 |Beginner Tableau |3 hrs (2 sessions) |Live  |Walter | |
